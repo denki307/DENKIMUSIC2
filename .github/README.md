@@ -22,7 +22,7 @@ Supports YouTube, Spotify, Resso, Apple Music, SoundCloud and M3U8 links.
 <img src="https://github.com/AnonymousX1025/AnonXMusic/blob/master/.github/anonx.jpg" width="720" height="auto">
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CyberPixelPro/AviaxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/denki307/DENKIMUSIC2)
 
 
 AnonXMusic lets you stream high-quality and low-latency audio and video playback into telegram group video chats.<br>
@@ -160,4 +160,5 @@ This project is licensed under the <b>MIT License</b> — see <a href="https://g
 ⭐ Enjoying the tunes? <b>Star the repo</b> — feedback keeps the rhythm going!
 
 </div>
+
 
